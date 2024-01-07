@@ -1,0 +1,8 @@
+#title, .Subtitle, .Sobre_mim_title {
+    color: blue;
+}
+
+.Sobre_mim_title {
+    font-size: 16px;
+    font-style: italic;
+}
