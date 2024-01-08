@@ -1,10 +1,10 @@
 body {
-    background: #000000;
+    background: #080000;
 }
 #title, .subtitle, .Sobre_mim_title, .Links {
     color: purple;
 }
 
 .post {
-    background: #000000
+    background: #080000
 }
