@@ -1,0 +1,10 @@
+body {
+    backgound: #ff0101;
+}
+#title, .subtitle, .Sobre_mim_title, .Links {
+    color: purple;
+}
+
+.post {
+    background: #b4a4a4
+}
