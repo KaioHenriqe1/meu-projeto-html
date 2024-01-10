@@ -2,7 +2,7 @@ body {
     background: white;
 }
 #title, .subtitle, .Sobre_mim_title, .Links {
-    color: rgb(119, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
 .post {
