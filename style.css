@@ -1,3 +1,17 @@
+body {
+    background: #ccc;
+}
+
 #title, .subtitle, .Sobre_mim_title, .Links {
-    color: purple;
+    color: blue;
+}
+
+.title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.Links {
+    font-size: 16px;
+    font-style: italic;
 }
