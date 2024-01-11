@@ -1,1 +1,1 @@
-Este repositório contém o código fonte do meu site pessoal de aprendizado. O site é dedicado a documentar minha jornada na programação, compartilhar experiências, projetos e insights sobre meu progresso como um iniciante entusiasmado no mundo da programação.
+#MeuProjetoHtlm
